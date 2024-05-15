@@ -1,0 +1,13 @@
+com\gcf\controller\TagController.class
+com\gcf\config\SecurityConfig.class
+com\gcf\controller\UserController.class
+com\gcf\config\SwaggerConfig.class
+com\gcf\filter\JwtAuthenticationTokenFilter.class
+com\gcf\controller\UpLoadController.class
+com\gcf\GCFAdminApplication.class
+com\gcf\controller\CategoryController.class
+com\gcf\controller\LinkController.class
+com\gcf\controller\LoginController.class
+com\gcf\controller\ArticleController.class
+com\gcf\controller\MenuController.class
+com\gcf\controller\RoleController.class
